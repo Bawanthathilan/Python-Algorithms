@@ -1,2 +1,2 @@
 # Python-Algorithms
-Insertion Sort and Bubble Sort
+Insertion Sort,selection sort
